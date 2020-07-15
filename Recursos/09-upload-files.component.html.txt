@@ -1,0 +1,10 @@
+<div fxLayout="column" fxLayoutAlign="space-around stretch">
+    <div fxLayout="row" fxLayoutAlign="center center">
+
+    </div>
+    <div fxLayout="row" fxLayoutAlign="center center">
+        <div fxFlex="70" fxLayout="column" *ngIf="files.length">
+
+        </div>
+    </div>
+</div>

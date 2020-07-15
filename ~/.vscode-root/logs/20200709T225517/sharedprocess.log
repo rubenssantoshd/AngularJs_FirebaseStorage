@@ -1,0 +1,3 @@
+[2020-07-09 22:55:22.570] [sharedprocess] [info] main {"machineId":"ca819314a736d0f613698cba28a08d8c17d9038ba752838ceae5d759d3582ec6","windowId":2}
+[2020-07-09 22:55:23.203] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/rubens/angular/cloudstorage/~/.vscode-root/User/snippets'
+[2020-07-09 22:56:02.835] [sharedprocess] [info] Starting to clean up unused language packs.
